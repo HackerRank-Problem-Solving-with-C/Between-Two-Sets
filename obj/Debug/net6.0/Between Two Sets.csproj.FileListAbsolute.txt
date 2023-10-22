@@ -1,0 +1,15 @@
+F:\Proj\.NET\Problem Solving\Between Two Sets\bin\Debug\net6.0\Between Two Sets.exe
+F:\Proj\.NET\Problem Solving\Between Two Sets\bin\Debug\net6.0\Between Two Sets.deps.json
+F:\Proj\.NET\Problem Solving\Between Two Sets\bin\Debug\net6.0\Between Two Sets.runtimeconfig.json
+F:\Proj\.NET\Problem Solving\Between Two Sets\bin\Debug\net6.0\Between Two Sets.dll
+F:\Proj\.NET\Problem Solving\Between Two Sets\bin\Debug\net6.0\Between Two Sets.pdb
+F:\Proj\.NET\Problem Solving\Between Two Sets\obj\Debug\net6.0\Between Two Sets.csproj.AssemblyReference.cache
+F:\Proj\.NET\Problem Solving\Between Two Sets\obj\Debug\net6.0\Between Two Sets.GeneratedMSBuildEditorConfig.editorconfig
+F:\Proj\.NET\Problem Solving\Between Two Sets\obj\Debug\net6.0\Between Two Sets.AssemblyInfoInputs.cache
+F:\Proj\.NET\Problem Solving\Between Two Sets\obj\Debug\net6.0\Between Two Sets.AssemblyInfo.cs
+F:\Proj\.NET\Problem Solving\Between Two Sets\obj\Debug\net6.0\Between Two Sets.csproj.CoreCompileInputs.cache
+F:\Proj\.NET\Problem Solving\Between Two Sets\obj\Debug\net6.0\Between Two Sets.dll
+F:\Proj\.NET\Problem Solving\Between Two Sets\obj\Debug\net6.0\refint\Between Two Sets.dll
+F:\Proj\.NET\Problem Solving\Between Two Sets\obj\Debug\net6.0\Between Two Sets.pdb
+F:\Proj\.NET\Problem Solving\Between Two Sets\obj\Debug\net6.0\Between Two Sets.genruntimeconfig.cache
+F:\Proj\.NET\Problem Solving\Between Two Sets\obj\Debug\net6.0\ref\Between Two Sets.dll
